@@ -1,0 +1,32 @@
+.top-bar{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    height: 40px;
+}
+.top-bar p{
+    padding-top: 8px;
+}
+
+.navbar-brand{
+    padding-left: 20px;
+}
+
+.choose{
+    color: #FFD863;
+}
+body{
+    background-color: #F9F9F9;
+}
+.form{
+    
+}
+.card{
+    border-radius: 10px;
+    box-shadow: 15px black;
+}
+
+.imgg{
+    transform: scaleX(-1);
+}
